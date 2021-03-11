@@ -1,4 +1,4 @@
 # chest-xray-medical-diagnosis
 
-Dataset for testing using CT medical images.
+Dataset for testing using medical CT images.
 > With two categories: `covid19` and `normal`.
